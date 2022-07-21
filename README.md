@@ -1,8 +1,5 @@
 ### Olá!! Eu sou o Mateus Idibal
 
-- 🌱 Estudando JavaScript
-- 😄 Pronouns: ele/dele
-
 <div align="center">
   <a href="https://github.com/idibal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=idibal&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
